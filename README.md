@@ -1,4 +1,4 @@
-# Jogo_da_forca-Marlon
+# Jogo da forca
 
 Esse projeto foi totalmente desenvolvido em Python, e feito para o terminal do seu sistema, mais conhecido como **cmd** ou **prompt de comando**, ou ainda como **terminal**.
 
