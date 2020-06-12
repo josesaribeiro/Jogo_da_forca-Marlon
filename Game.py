@@ -1,5 +1,3 @@
-from time import sleep
-
 from Palavras import *
 from Telas import *
 from Forca import *

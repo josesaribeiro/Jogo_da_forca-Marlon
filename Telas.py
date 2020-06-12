@@ -82,7 +82,6 @@ class Telas:
         print(f"\nA palavra certa: {self.palavra}")
         print(f"\nLetras certas: {self.certas}")
         print(f"Letras erradas: {self.erradas}\n")
-        sleep(20)
 
     @staticmethod
     def listar_diretorios():

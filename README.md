@@ -123,4 +123,7 @@ Para isso foi necessário a criação de 4 classes:
 ![Tela Ganhar](imagens_jogo/perder.png)
 
 ---
+*Observações:*
+O projeto foi feito utilizando o python 3.7, e limpeza de terminal feito para linux, por isso se você testar no windows, funcionará normalmente, mas as telas não serão limpas a cada atualização.
+---
 **Agradeço por terem acompanhado o post todo e a explicação, e trarei mais projetos.**
