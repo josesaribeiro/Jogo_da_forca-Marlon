@@ -1,5 +1,4 @@
 import os
-from time import sleep
 
 import Palavras as palavras
 from Forca import *
