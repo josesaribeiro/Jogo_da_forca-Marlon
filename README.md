@@ -66,61 +66,61 @@ Para isso foi necessário a criação de 4 classes:
 - Na tela inicial tem as opções de jogar, gravar, onde o jogador irá gravar novas palavras nos arquivos, e a opção des sair.
 &nbsp;
 
-![Tela Inicial](imagens/tela-inicial.png)
+![Tela Inicial](imagens_jogo/tela-inicial.png)
 
 **Tela Jogar - Seleção de Níveis**
 - Na tela de jogar, o jogador primeiramente irá selecionar o nível, e assim o script irá carregar o arquivo desse nível, selecionando as palavras dentro dele.
 &nbsp;
 
-![Tela Níves](imagens/jogar-niveis.png)
+![Tela Níves](imagens_jogo/jogar-niveis.png)
 
 **Tela Jogar - Jogando**
 - Após a seleção do nível das palavras, agora aparecerá a tela com a forca, mostrando quanto o jogador acertou ou errou, e aparecendo a palavra secreta, também com a quantidade de letras que acertou e errou.
 &nbsp;
 
-![Tela Jogar](imagens/jogar.png)
+![Tela Jogar](imagens_jogo/jogar.png)
 
 **Tela Jogar - Erro - Acerto**
 - Nessa tela mostra como fica após o jogador acertar uma letra, e errar uma letra, pode-se ver que ao acertar a letra, aparece ali em Palavra, onde está a letra.
 &nbsp;
 
-![Tela Erros e Acertos](imagens/erro-acerto.png)
+![Tela Erros e Acertos](imagens_jogo/erro-acerto.png)
 
 **Tela Gravar - Seleção de Níveis**
 - Ao selecionar a opção de gravar, o jogador entre nessa tela, que agora está pedindo para selecionar o nível da palavra que deseja gravar.
 &nbsp;
 
-![Tela Gravar](imagens/gravar-niveis.png)
+![Tela Gravar](imagens_jogo/gravar-niveis.png)
 
 **Tela Gravar - Digitando Palavra**
 - Aqui está pedindo para digitar uma palavra para ser gravada.
 &nbsp;
 
-![Tela Digitar](imagens/gravar-digitar.png)
+![Tela Digitar](imagens_jogo/gravar-digitar.png)
 
 **Tela Gravar - Gravando Palavra**
 - Logo após digitar a palavra e dar enter, aparece essa tela para confirmação, se quer cadastrar mais, ou se quer cancelar a edição, assim como a opção de não gravar mais e ir para a tela de jogar..
 &nbsp;
 
-![Tela Gravando](imagens/gravando.png)
+![Tela Gravando](imagens_jogo/gravando.png)
 
 **Tela Sair - Sair**
 - Ao selecionar a opção sair, vem para essa tela.
 &nbsp;
 
-![Tela Sair](imagens/sair.png)
+![Tela Sair](imagens_jogo/sair.png)
 
 **Tela Ganhar**
 - Aqui é quando o jogador consegue acertar a palavra. Ao final é mostrado quantos erros e acertos teve, e também a palavra que ele acertou.
 &nbsp;
 
-![Tela Ganhar](imagens/ganhar.png)
+![Tela Ganhar](imagens_jogo/ganhar.png)
 
 **Tela Perder**
 - Aqui é quando o jogador perde. Ao final é mostrado quantos erros e acertos teve, e também a palavra que ele acertou.
 &nbsp;
 
-![Tela Ganhar](imagens/perder.png)
+![Tela Ganhar](imagens_jogo/perder.png)
 
 ---
 **Agradeço por terem acompanhado o post todo e a explicação, e trarei mais projetos.**
