@@ -1,3 +1,5 @@
+from time import sleep
+
 from Palavras import *
 from Telas import *
 from Forca import *
@@ -131,7 +133,6 @@ while jogar:
     r = input("\nDeseja ir para a tela inicial ou encerrar o jogo ?\n\n1 - Tela Inicial\n2 - Sair\n\nResposta: ")
 
     if int(r) == 1:
-        # jogar = False
         Telas.inicial(t)
         jogar = True
     if int(r) == 2:
